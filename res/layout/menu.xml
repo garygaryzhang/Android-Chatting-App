@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.chatt.UserList" >
+
+    <item
+        android:id="@+id/add_friend"
+        android:icon="@drawable/ic_addfriend"
+        android:showAsAction="always"
+       />
+    <item
+        android:id="@+id/delete_friend"
+        android:icon="@drawable/delete_user"
+        android:showAsAction="always"
+        />
+</menu>
